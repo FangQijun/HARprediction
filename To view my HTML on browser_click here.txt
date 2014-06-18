@@ -1,0 +1,9 @@
+Dear grader,
+
+To view my HTML on browser, please go to: http://htmlpreview.github.com/
+
+Then paste my HTML doc link (https://github.com/FangQijun/HARprediction/blob/master/classePrediction.html)
+
+Press "Enter", you will see it! :)
+
+Q. F. Fang
